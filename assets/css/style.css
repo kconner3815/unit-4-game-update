@@ -1,0 +1,27 @@
+
+@import url('https://fonts.googleapis.com/css?family=Monoton');
+
+
+
+.crystal {
+    padding: 118px;
+    /* margin: 20px; */
+    width: 4%;
+    height: 10%;
+    display: inline-flex;
+    background-repeat: no-repeat;
+}
+img { width: 50px; }
+
+body {background-color: black;
+      
+color: white;
+}
+
+
+h1 { font-family: 'Monoton', cursive;
+color: pink;
+
+padding-top: 40px;}
+
+
