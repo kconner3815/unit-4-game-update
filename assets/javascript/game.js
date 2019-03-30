@@ -37,10 +37,10 @@ $(document).ready(function() {
     
     $(".crystals").empty();
     
-    var images = ["cry1.png",
-                  "cry2.png", 
-                  "cry3.png",
-                  "cry4.png"]
+    var images = ["assets/images/cry1.png",
+                  "assets/images/cry2.png", 
+                  "assets/images/cry3.png",
+                  "assets/images/cry4.png"]
     
     randomResult = Math.floor(Math.random() * 69) + 30;
     //console.log(randomResult);
